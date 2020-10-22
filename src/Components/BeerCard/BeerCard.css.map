@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "BeerCard.sass"
+    ],
+    "names": [],
+    "file": "BeerCard.css"
+}

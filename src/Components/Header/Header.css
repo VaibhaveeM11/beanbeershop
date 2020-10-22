@@ -1,0 +1,18 @@
+.head{
+background-color:hsl(168, 47%, 17%)	;
+color:white;
+width: 100%;
+padding:12px;
+}
+.HearUl
+{
+list-style: none;
+color: white;
+position: relative;
+left: 20em;
+display: inline-flex;
+justify-content: space-between;
+}
+li{
+    color:white;
+}

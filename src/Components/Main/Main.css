@@ -1,0 +1,23 @@
+/* No CSS *//*# sourceMappingURL=Main.css.map */
+.search-beer
+{
+    width: 400px;
+    height: 400px;
+     background:hsl(168, 22%, 41%);
+}
+.btns{
+background:hsl(168, 47%, 17%);
+color: white;
+}
+.btns:hover{
+    background: transparent;
+    color: black;
+}
+.input-group
+{
+width: 60%;
+position: relative;
+left: 300px;
+top:20px;
+bottom: 15px;
+}
